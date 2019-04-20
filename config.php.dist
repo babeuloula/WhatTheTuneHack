@@ -1,0 +1,6 @@
+<?php
+return [
+    'baseUrl'      => 'xxx',
+    'accessKey'    => 'yyy',
+    'accessSecret' => 'zzz',
+];
