@@ -6,6 +6,7 @@
  */
 
 header('Content-Type: application/json');
+header('Access-Control-Allow-Origin: https://whatthetune.com');
 
 $httpMethod       = 'POST';
 $httpUri          = '/v1/identify';
